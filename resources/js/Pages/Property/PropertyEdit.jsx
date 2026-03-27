@@ -309,7 +309,7 @@ export default function PropertyEdit() {
                 type="button"
                 onClick={handleDelete}
                 disabled={processing}
-                className="rounded-md bg-red-600 px-4 py-2 text-white hover:bg-red-700 disabled:opacity-50"
+                className="rounded-md bg-blue-600 px-4 py-2 text-white hover:bg-red-700 disabled:opacity-50"
               >
                 Delete Property
               </button>
